@@ -6,3 +6,5 @@ print ('Pelé')
 print ('Spidersilva')
 print ('Tom brady')
 print ('APENAS OS GOATS')
+
+print ("Meu nome é Guilherme, faço o curso de engenharia de software na UMC")
