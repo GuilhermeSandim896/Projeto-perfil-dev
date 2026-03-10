@@ -1,1 +1,8 @@
 print('Guilherme')
+print ('Jordan')
+print ('Nadal')
+print ('Senna')
+print ('Pelé')
+print ('Spidersilva')
+print ('Tom brady')
+print ('APENAS OS GOATS')
